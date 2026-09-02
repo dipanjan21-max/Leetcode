@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
+| [3110-score-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
