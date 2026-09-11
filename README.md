@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dipanjan21-max/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dipanjan21-max/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dipanjan21-max/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipanjan21-max/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/dipanjan21-max/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dipanjan21-max/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
