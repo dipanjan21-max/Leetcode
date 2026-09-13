@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
+| [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dipanjan21-max/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
