@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipanjan21-max/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
