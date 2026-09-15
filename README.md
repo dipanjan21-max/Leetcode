@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipanjan21-max/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -63,8 +64,17 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
