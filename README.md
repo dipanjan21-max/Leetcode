@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/dipanjan21-max/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipanjan21-max/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/dipanjan21-max/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
