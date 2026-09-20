@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
 | [3110-score-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
