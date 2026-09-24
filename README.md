@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dipanjan21-max/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
