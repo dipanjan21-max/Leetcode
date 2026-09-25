@@ -44,6 +44,7 @@
 | [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/dipanjan21-max/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dipanjan21-max/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/dipanjan21-max/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/dipanjan21-max/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipanjan21-max/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
+| [2396-strictly-palindromic-number](https://github.com/dipanjan21-max/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Graph Theory
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dipanjan21-max/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/dipanjan21-max/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
