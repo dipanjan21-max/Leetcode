@@ -21,12 +21,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dipanjan21-max/Leetcode/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/dipanjan21-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/dipanjan21-max/Leetcode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/dipanjan21-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
