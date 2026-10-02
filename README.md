@@ -121,4 +121,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/dipanjan21-max/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/dipanjan21-max/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
