@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -95,6 +96,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dipanjan21-max/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
