@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/dipanjan21-max/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
@@ -96,6 +97,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dipanjan21-max/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
