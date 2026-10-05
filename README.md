@@ -31,16 +31,19 @@
 | [0014-longest-common-prefix](https://github.com/dipanjan21-max/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/dipanjan21-max/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0856-score-of-parentheses) |
 | [3110-score-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Math
 |  |
 | ------- |
