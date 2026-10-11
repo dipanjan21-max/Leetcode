@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dipanjan21-max/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dipanjan21-max/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dipanjan21-max/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dipanjan21-max/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
