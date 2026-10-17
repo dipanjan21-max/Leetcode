@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dipanjan21-max/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -37,6 +38,7 @@
 | [0856-score-of-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dipanjan21-max/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dipanjan21-max/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -129,6 +131,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/dipanjan21-max/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
