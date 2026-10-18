@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dipanjan21-max/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -86,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dipanjan21-max/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/dipanjan21-max/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/dipanjan21-max/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -164,4 +167,12 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dipanjan21-max/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
