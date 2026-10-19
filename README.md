@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/dipanjan21-max/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/dipanjan21-max/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/dipanjan21-max/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipanjan21-max/Leetcode/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dipanjan21-max/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/dipanjan21-max/Leetcode/tree/master/0509-fibonacci-number) |
@@ -88,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipanjan21-max/Leetcode/tree/master/0048-rotate-image) |
 | [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dipanjan21-max/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
