@@ -21,6 +21,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dipanjan21-max/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dipanjan21-max/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dipanjan21-max/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dipanjan21-max/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/dipanjan21-max/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dipanjan21-max/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dipanjan21-max/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dipanjan21-max/Leetcode/tree/master/0078-subsets) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dipanjan21-max/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
