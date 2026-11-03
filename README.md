@@ -26,6 +26,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dipanjan21-max/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/dipanjan21-max/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dipanjan21-max/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanjan21-max/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dipanjan21-max/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dipanjan21-max/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/dipanjan21-max/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -82,6 +83,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dipanjan21-max/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dipanjan21-max/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dipanjan21-max/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanjan21-max/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/dipanjan21-max/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dipanjan21-max/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
