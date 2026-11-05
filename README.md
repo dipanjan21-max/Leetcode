@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/dipanjan21-max/Leetcode/tree/master/0118-pascals-triangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanjan21-max/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanjan21-max/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dipanjan21-max/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dipanjan21-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2596-check-knight-tour-configuration](https://github.com/dipanjan21-max/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipanjan21-max/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dipanjan21-max/Leetcode/tree/master/0027-remove-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/dipanjan21-max/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Graph Theory
 |  |
@@ -140,6 +142,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/dipanjan21-max/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dipanjan21-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanjan21-max/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanjan21-max/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dipanjan21-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dipanjan21-max/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
